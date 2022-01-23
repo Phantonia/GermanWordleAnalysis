@@ -10,8 +10,12 @@ I wanted to know these words for a German version of Wordle, and especially also
 
 Assume vowels are as important as consonants:
 
-4 letters | 5 letters | 6 letters | 7 letters
-RENS | ERNST | INSERT | ANREIST
-THAI | GHALI | LOCHAU | LOGBUCH
-KLUG | DUMPF | --- | ---
-ODBC | --- | --- | ---
+| 4 letters | 5 letters | 6 letters | 7 letters |
+|-----------|-----------|-----------|-----------|
+| RENS      | ERNST     | INSERT    | ANREIST   |
+|-----------|-----------|-----------|-----------|
+| THAI      | GHALI     | LOCHAU    | LOGBUCH   |
+|-----------|-----------|-----------|-----------|
+| KLUG      | DUMPF     |           |           |
+|-----------|-----------|-----------|-----------|
+| ODBC      |           |           |           |
