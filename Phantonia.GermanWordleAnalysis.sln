@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phantonia.GermanWordleAnalysis", "Phantonia.GermanWordleAnalysis\Phantonia.GermanWordleAnalysis.csproj", "{DFA44E6A-414B-4856-A269-F03123AB0EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA44E6A-414B-4856-A269-F03123AB0EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA44E6A-414B-4856-A269-F03123AB0EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA44E6A-414B-4856-A269-F03123AB0EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA44E6A-414B-4856-A269-F03123AB0EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3D09FB-8B01-411F-AE3C-D565F8E1EDA4}
+	EndGlobalSection
+EndGlobal
